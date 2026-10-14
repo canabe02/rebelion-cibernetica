@@ -1,0 +1,15 @@
+# Bytecode compilado de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caché de Pytest
+.pytest_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Configuración de editor (opcional, recomendable si solo es para tu máquina)
+.vscode/
